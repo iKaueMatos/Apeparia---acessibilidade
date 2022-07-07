@@ -3,10 +3,15 @@ Resumo do projeto:
 
 
 🔨 Funcionalidades do projeto:
+
 Funcionalidade 1:Requisito de acessibilidade 
+
 Funcionalidade 2:Design Responsivo
+
 Funcionalidade 3:Legendas 
+
 Funcionalidade 4:
+
 Funcionalidade 5:
 
 
