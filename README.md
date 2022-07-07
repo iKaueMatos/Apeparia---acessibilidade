@@ -15,10 +15,10 @@ Funcionalidade 4:
 Funcionalidade 5:
 
 
-✔️ Técnicas e tecnologias utilizadas:HTML & CSS
+✔️ Técnicas e tecnologias utilizadas:HTML & CSS & JavaScript
 
 
 
 
 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando aqui.
+Você pode acessar os arquivos do projeto clicando aqui: https://ikauematos.github.io/Apeparia---acessibilidade/
