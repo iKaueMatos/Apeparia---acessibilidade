@@ -22,3 +22,6 @@ Funcionalidade 5:
 
 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando aqui: https://ikauematos.github.io/Apeparia---acessibilidade/
+
+![image](https://user-images.githubusercontent.com/98132837/178171355-c8b4699d-f972-4cca-8f6a-d25ee9d7985a.png)
+
